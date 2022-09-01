@@ -347,7 +347,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "master-vampire",
+      "PhobGCC_Symbol_Library"
+    ]
   },
   "meta": {
     "filename": "PhobGCC.kicad_pro",
@@ -451,6 +454,34 @@
     [
       "852dabbf-de45-4470-8176-59d37a754407",
       ""
+    ],
+    [
+      "1588c195-c9ea-4da9-b826-857feae5fa3d",
+      "PowerSupply"
+    ],
+    [
+      "a91b534b-2c43-445c-b1a5-f378435d15b2",
+      "Connectors"
+    ],
+    [
+      "6c6af0f1-f43c-4863-a7a8-8d8309aae932",
+      "Microcontroller"
+    ],
+    [
+      "2263d9df-17ed-4f8c-b2ea-949c2add9280",
+      "Rumble"
+    ],
+    [
+      "a7c3a017-ba9f-4cef-95ff-e453652ab3af",
+      "DigitalInputs"
+    ],
+    [
+      "44e6b1b8-59e4-4d24-9bc2-5bf53cace5b9",
+      "Stickboxes"
+    ],
+    [
+      "d8a470a5-4ad8-4655-bb5d-717db0010d28",
+      "Triggers"
     ]
   ],
   "text_variables": {}
